@@ -1,3 +1,8 @@
+---
+ title: Kvantefysikk
+ permalink: kvantefysikk.html
+---
+
 # Hallo
 
 Dette er en test. 
