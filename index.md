@@ -1,5 +1,7 @@
 Jippi dette er bra
 
+## Hvorfor virker du ikke Jekyll 
+
 <ul>
   {% for post in site.posts %}
     <li>
